@@ -1,0 +1,13 @@
+.git
+.github
+**/.DS_Store
+**/*.log
+**/node_modules
+**/.next
+**/out
+**/dist
+**/coverage
+**/.cache
+.env
+.env.*
+deploy/.env
